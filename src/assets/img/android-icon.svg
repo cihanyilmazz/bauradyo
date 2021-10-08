@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="28px" viewBox="0 0 26 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>8643F9E3-1E08-4560-8FB3-FA839FAA03DE</title>
+    <defs>
+        <path d="M1.69230769,7.01924641 C0.758153846,7.01924641 0,7.71971403 0,8.5827902 L0,14.8369654 C0,15.7000415 0.758153846,16.4005092 1.69230769,16.4005092 C2.62646154,16.4005092 3.38461538,15.7000415 3.38461538,14.8369654 L3.38461538,8.5827902 C3.38461538,7.71893225 2.62646154,7.01924641 1.69230769,7.01924641 Z" id="path-1"></path>
+        <filter x="-103.4%" y="-26.6%" width="306.8%" height="174.6%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.25 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M20.3076923,7.01924641 C19.3735385,7.01924641 18.6153846,7.71971403 18.6153846,8.5827902 L18.6153846,14.8369654 C18.6153846,15.7000415 19.3735385,16.4005092 20.3076923,16.4005092 C21.2418462,16.4005092 22,15.7000415 22,14.8369654 L22,8.5827902 C22,7.71893225 21.2418462,7.01924641 20.3076923,7.01924641 Z" id="path-3"></path>
+        <filter x="-103.4%" y="-26.6%" width="306.8%" height="174.6%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.25 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M4.23076923,19.5275967 L5.92307692,19.5275967 L5.92307692,23.4364562 C5.92307692,24.2995324 6.68123077,25 7.61538462,25 C8.54953846,25 9.30769231,24.2995324 9.30769231,23.4364562 L9.30769231,19.5275967 L12.6923077,19.5275967 L12.6923077,23.4364562 C12.6923077,24.2995324 13.4504615,25 14.3846154,25 C15.3187692,25 16.0769231,24.2995324 16.0769231,23.4364562 L16.0769231,19.5275967 L17.7692308,19.5275967 L17.7692308,7.8010183 L4.23076923,7.8010183 L4.23076923,19.5275967 Z" id="path-5"></path>
+        <filter x="-25.9%" y="-14.5%" width="151.7%" height="140.7%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.25 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01---anasayfa" transform="translate(-1022.000000, -1800.000000)" fill-rule="nonzero">
+            <g id="footer" transform="translate(0.000000, 1668.000000)">
+                <g id="indir" transform="translate(1024.000000, 60.000000)">
+                    <g id="android-icon" transform="translate(0.000000, 72.000000)">
+                        <g id="Path">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                            <use fill="#A4C639" xlink:href="#path-1"></use>
+                        </g>
+                        <g id="Path">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                            <use fill="#A4C639" xlink:href="#path-3"></use>
+                        </g>
+                        <g id="Path">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                            <use fill="#A4C639" xlink:href="#path-5"></use>
+                        </g>
+                        <path d="M14.9963846,1.97838123 L15.8653846,0.587609024 C15.983,0.399983769 15.9136154,0.161543341 15.7096923,0.0528770479 C15.5083077,-0.0557892455 15.2485385,0.0083160499 15.1317692,0.196723077 L14.2847692,1.55231554 C13.3116923,1.05198153 12.1930769,0.765071245 11,0.765071245 C9.80776923,0.765071245 8.68915385,1.05198153 7.71523077,1.55309732 L6.86738462,0.195941305 C6.74976923,0.00909782179 6.49253846,-0.0550074736 6.28861538,0.0528770479 C6.08723077,0.160761569 6.01784615,0.399201998 6.13376923,0.586827252 L7.00361538,1.97838123 C5.32569231,3.11664111 4.23076923,4.94755088 4.23076923,7.01924641 L17.7692308,7.01924641 C17.7692308,4.94755088 16.6743077,3.11664111 14.9963846,1.97838123 Z M8.46153846,4.67393072 C7.99361538,4.67393072 7.61538462,4.32447868 7.61538462,3.89215883 C7.61538462,3.45983897 7.99361538,3.11038693 8.46153846,3.11038693 C8.92946154,3.11038693 9.30769231,3.45983897 9.30769231,3.89215883 C9.30769231,4.32447868 8.92946154,4.67393072 8.46153846,4.67393072 Z M13.5384615,4.67393072 C13.0705385,4.67393072 12.6923077,4.32447868 12.6923077,3.89215883 C12.6923077,3.45983897 13.0705385,3.11038693 13.5384615,3.11038693 C14.0063846,3.11038693 14.3846154,3.45983897 14.3846154,3.89215883 C14.3846154,4.32447868 14.0063846,4.67393072 13.5384615,4.67393072 Z" id="Shape" fill="#A4C639"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
